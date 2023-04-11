@@ -1,0 +1,13 @@
+tablero <<id>>
+dimension 5X5
+~,B3,~,B1,~
+~,B3,~,T,~
+I,~,O,~,~
+~,~,~,~,~
+tablero <<55>>
+dimension 5X5
+~,B3,~B1,~
+~,B3,~,T,~
+I,~,O,~,~
+~,~,~,~,~
+
